@@ -16,8 +16,6 @@
 
 <img align="left"  height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg">
 
-<img align="left"  height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg">
-
 </div>
 
 ##
