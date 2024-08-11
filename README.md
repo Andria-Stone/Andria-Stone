@@ -1,6 +1,6 @@
 ## Hello! I´m Ândria Stone
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO+WORLD!+MEU+NOME+É+ÂNDRIA+STONE;TENHO+19+ANOS;ESTUDO+ENGENHARIA+DE+SOFTWARE;SEJA+BEM+-+VINDO(A)!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO+WORLD!+MEU+NOME+É+ÂNDRIA+STONE;TENHO+20+ANOS;ESTUDO+ENGENHARIA+DE+SOFTWARE;SEJA+BEM+-+VINDO(A)!+:%29)](https://git.io/typing-svg)
 
 
 <div align="center">  
